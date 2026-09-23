@@ -1,6 +1,5 @@
 <p align="center">
-  <img width="1408" height="1408" alt="icon" src="https://github.com/user-attachments/assets/b0332fef-a06b-4b4f-91fa-185f2639af45" />
-</p>
+<img width="512" height="512" alt="icon" src="https://github.com/user-attachments/assets/457f9be2-9d8b-4093-a9c3-221962289a2e" /></p>
 
 # Lightning Control Center on StartOS
 

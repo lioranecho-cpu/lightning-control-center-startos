@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="icon.svg" alt="Lightning Control Center Logo" width="21%">
+  <img width="1440" height="1376" alt="icon" src="https://github.com/user-attachments/assets/487579ee-73b8-47fa-8f5d-1355a452e808" />
 </p>
 
 # Lightning Control Center on StartOS

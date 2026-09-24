@@ -13,7 +13,7 @@ export const manifest = setupManifest({
   volumes: ['data'],
   images: {
     lcc: {
-      source: { dockerTag: 'sparkielabs/lightning-control-center:0.1.8' },
+      source: { dockerTag: 'sparkielabs/lightning-control-center:0.1.9' },
       arch: ['x86_64', 'aarch64'],
     },
   },
